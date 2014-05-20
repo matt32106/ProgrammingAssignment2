@@ -15,7 +15,7 @@
 ## [1,]  0.0  0.5
 ## [2,]  0.5  0.0
 ##
-## note the getting cached data message the second time 
+## note the "getting cached data" message the second time 
 ## the cacheSolve function is called
 
 
